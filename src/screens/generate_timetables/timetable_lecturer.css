@@ -1,0 +1,9 @@
+#lec{
+    border: 2px;
+    border-color: black;
+}
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }

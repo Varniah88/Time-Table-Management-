@@ -1,0 +1,26 @@
+.nav-container {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 1px -6px 16px 3px #d2e0dd;
+}
+.nav-container .bg-dark {
+  background-image: url("../images/header4.svg");
+}
+#nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-container .img-header {
+  width: 40px;
+  height: 40px;
+}
+
+#ul-heading-img {
+  flex: 1 1 25px;
+}
+
+#ul-heading {
+  flex: 2 1 auto;
+}

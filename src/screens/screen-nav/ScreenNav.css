@@ -1,0 +1,15 @@
+.yearSemister__navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.yearSemister__navRight__link:hover {
+  text-decoration: none;
+}
+
+.yearSemister__navleft:hover {
+  text-decoration: none;
+  color: black;
+}
